@@ -5,7 +5,7 @@
 	Plugin URI:
 	Plugin Description: Add RSS of a question with pictures
 	Plugin Version: 1.0
-	Plugin Date: 2016-0-0
+	Plugin Date: 2016-07-14
 	Plugin Author: 38qa.net
 	Plugin Author URI: http://www.question2answer.org/
 	Plugin License: GPLv2
